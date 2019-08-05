@@ -10,10 +10,16 @@
 
     <title>Calculator</title>
   </head>
+  <style>
+      #loading, #results {
+          display: none;
+
+      }
+  </style>
   <body class="bg-dark">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 mix-auto">
+            <div class="col-md-6 offset-md-3 mix-auto">
                 <div class="card card-body text-center mt-5">
                     <h1 class="heading display-5 pb-3">Loan Calculator</h1>
 
@@ -45,9 +51,9 @@
                         </div>
                     </form>
     <!-- to see the result -->
-            <!-- <div id="loading">
+            <div id="loading">
                 <img src="img/loading.gif" alt="">
-            </div> -->
+            </div>
                     
             <div id="results" class="pt-4"> 
                 <h5>Results</h5>
