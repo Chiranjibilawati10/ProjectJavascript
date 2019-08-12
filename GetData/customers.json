@@ -1,0 +1,23 @@
+[
+        
+    {
+        "id":1,
+        "name":"chiranjibi lawati",
+        "company":"lawatiEnterprises",
+        "phone":"9807933883"
+    },
+
+    {
+        "id":2,
+        "name":"bishal rai",
+        "company":"raiEnterprises",
+        "phone":"9807933883"
+    },
+
+    {
+        "id":3,
+        "name":"rahul tamang",
+        "company":"tamangEnterprises",
+        "phone":"9807933883"
+    }
+]
