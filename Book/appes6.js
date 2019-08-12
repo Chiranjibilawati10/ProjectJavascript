@@ -7,6 +7,7 @@ class Book {
 }
 
 class UI {
+    
     addBookToList(book){
 
         const list = document.getElementById('book-list');
